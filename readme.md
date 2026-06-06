@@ -184,7 +184,7 @@ your-repo-name/
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/your-repo-name/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/dhashwinkennedy/Amazon-Search-Price-Tracker-An-Automated-Data-Extraction-with-Selenium-BS4/issues).
 
 1. Fork the repository
 2. Create your feature branch: `git checkout -b feature/my-feature`
